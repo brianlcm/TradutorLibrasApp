@@ -2,9 +2,7 @@
 
 ### Visão geral
 
-Este é um aplicativo de câmera que detecta continuamente os sinais de Libras nos quadros vistos pela câmera traseira do seu dispositivo.
-
-O aplicativo pode ser executado no dispositivo ou emulador.
+Este é um aplicativo que detecta continuamente os sinais de Libras nos quadros vistos pela câmera traseira do seu dispositivo.
 
 O aplicativo foi desenvolvido com base no **[TensorFlow example repo](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android)**.
 
