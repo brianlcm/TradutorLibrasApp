@@ -1,0 +1,2 @@
+rootProject.name = 'Tradutor Libras App'
+include ':app', ':lib_interpreter', ':lib_task_api'

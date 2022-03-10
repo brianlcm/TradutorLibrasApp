@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.detection.tflite.test" >
+4
+5    <uses-sdk
+5-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:5:15-41
+7        android:targetSdkVersion="30" />
+7-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:11:5-15:100
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:13:22-53
+13        android:label="Tests for org.tensorflow.lite.examples.detection.tflite.test"
+13-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:15:22-98
+14        android:targetPackage="org.tensorflow.lite.examples.detection.tflite.test" />
+14-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:12:22-96
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] D:\caches\transforms-3\721e2574178c1390c12705756113184b\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true" >
+22-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:8:9-60
+23-->C:\Users\brian\AndroidStudioProjects\DeteccaoLibrasApp\lib_task_api\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2129746484013296831.xml:8:23-57
+24    </application>
+25
+26</manifest>

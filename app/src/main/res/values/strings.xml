@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translation_description="Tradutor Libras App [CHAR_LIMIT=40]">Detector Libras App</string>
+    <string name="tfe_od_camera_error" translation_description="Erro em relação ao suporte da câmera[CHAR_LIMIT=40]">Este dispositivo não é compatível com a Camera2 API.</string>
+    <string name="abrir_camera">Abrir câmera</string>
+    <string name="lista_de_sinais">Lista de sinais detectáveis</string>
+    <string name="tradutor_libras_app">Tradutor Libras App</string>
+    <string name="sinais_detectaveis"></string>
+</resources>
